@@ -13,4 +13,5 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.MapGet("/hello", () => new { message = "Hello,dear friend! and bestfriend!" });
+app.MapGet("/sum", () => new { result = 7 + 3 });
 app.Run();
