@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\6 сро создание json  сервиса.props" />
+</Project>

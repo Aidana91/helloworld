@@ -1,0 +1,37 @@
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\6 сро создание json  сервиса.staticwebassets.endpoints.json
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\6 сро создание json  сервиса.exe
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\6 сро создание json  сервиса.deps.json
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\6 сро создание json  сервиса.runtimeconfig.json
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\6 сро создание json  сервиса.dll
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\6 сро создание json  сервиса.pdb
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.AssemblyInfo.cs
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\scopedcss\bundle\6 сро создание json  сервиса.styles.css
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets\msbuild.6 сро создание json  сервиса.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets\msbuild.6 сро создание json  сервиса.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets\msbuild.build.6 сро создание json  сервиса.props
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.6 сро создание json  сервиса.props
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.6 сро создание json  сервиса.props
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 ___ __.42B52EAC.Up2Date
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.dll
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\refint\6 сро создание json  сервиса.dll
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.pdb
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\6 сро создание json  сервиса.genruntimeconfig.cache
+C:\Users\User\source\repos\6 сро создание json  сервиса\6 сро создание json  сервиса\obj\Debug\net8.0\ref\6 сро создание json  сервиса.dll

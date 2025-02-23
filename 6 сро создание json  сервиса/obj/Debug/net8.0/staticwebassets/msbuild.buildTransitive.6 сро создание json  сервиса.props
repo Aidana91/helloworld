@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\6 сро создание json  сервиса.props" />
+</Project>

@@ -1,0 +1,6 @@
+@_6_сро_создание_json__сервиса_HostAddress = http://localhost:5238
+
+GET {{_6_сро_создание_json__сервиса_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
