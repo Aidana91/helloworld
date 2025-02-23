@@ -14,6 +14,5 @@ if (app.Environment.IsDevelopment())
 }
 app.MapGet("/hello", () => new { message = "Hello,dear friend! and bestfriend!" });
 app.MapGet("/sum", () => new { result = 7 + 3 });
-app.MapGet("/sum2", () => new { result = 11 + 455 });
 
 app.Run();
